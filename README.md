@@ -85,3 +85,46 @@ The project follows a structured analytics workflow:
 ---
 
 ## 📂 Project Structure
+
+Indian-Job-Skill-Gap-Analysis/
+│
+├── Indian_Job_Skill_Gap_Analysis.ipynb
+├── skill_gap_dashboard.html
+├── README.md
+├── LICENSE
+└── data/ (optional)
+
+
+---
+
+## 🚀 How to Run
+
+1. Open the notebook in Google Colab  
+2. Upload or connect the dataset  
+3. Run all cells  
+4. The dashboard will be generated interactively  
+
+---
+
+## 💡 Use Case
+
+This project can be useful for:
+
+- Students preparing for data roles  
+- Professionals looking to upskill  
+- Recruiters analyzing hiring trends  
+- Business analysts studying market demand  
+
+---
+
+## 📌 Future Improvements
+
+- Add real-time job data integration  
+- Expand analysis to other domains beyond data roles  
+- Build a web-based dashboard using Streamlit  
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.

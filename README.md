@@ -84,19 +84,6 @@ The project follows a structured analytics workflow:
 
 ---
 
-## 📂 Project Structure
-
-Indian-Job-Skill-Gap-Analysis/
-│
-├── Indian_Job_Skill_Gap_Analysis.ipynb
-├── skill_gap_dashboard.html
-├── README.md
-├── LICENSE
-└── data/ (optional)
-
-
----
-
 ## 🚀 How to Run
 
 1. Open the notebook in Google Colab  
